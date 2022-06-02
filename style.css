@@ -1,3 +1,7 @@
 * {
     font-weight: normal;
 }
+
+.container {
+    height: 150px;
+}
